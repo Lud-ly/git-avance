@@ -6,3 +6,4 @@ je commit
 je push
 A
 B
+C
