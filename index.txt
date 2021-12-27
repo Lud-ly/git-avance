@@ -1,4 +1,5 @@
 J'apprends git avancé
+je git branch
 Je code
 Je add
 je commit 
