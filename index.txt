@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 J'apprends git avancé c'est beau
 je git branch
+=======
+J'apprends git avancé
+je git branch sur la branche
+>>>>>>> 08d13c266f111afc76c3b388747edba21ed51587
 Je code
 Je add
 je commit 
@@ -8,3 +13,4 @@ A
 B
 C
 D
+tibo est la
