@@ -1,4 +1,4 @@
-je git branch
+je git branch la branche
 J'apprends git avancé
 je git branch sur la branche
 Je code
