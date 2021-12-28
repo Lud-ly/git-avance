@@ -1,5 +1,10 @@
+
 J'apprends git avancé c'est beau
 je git branch
+J'apprends git avancé c'est beau
+je git branch
+J'apprends git avancé
+je git branch sur la branche
 Je code
 Je add
 je commit 
